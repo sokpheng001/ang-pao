@@ -15,9 +15,9 @@ export const metadata = {
   openGraph: {
     title: "Lurnar chinese new year",
     description: "Happy Chinese new year",
-    url: "https://istad.co/",
+    url: "sokpheng.com",
     images:
-      "https://bellevuecollection.com/app/uploads/2023/12/LNY24__Mobile-Hero-768x590-copy.png",
+      "https://imgs.search.brave.com/wjWOK3qMV4kDYICsTV47_pHWc30-kN2MbvyHocOD0S0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNS8w/MS8yNi9vcmlnaW5h/bC95ZWFyX29mX3Ro/ZV9zbmFrZV8xNzM3/ODk1MjI1NDkxLmpw/Zw",
   },
 };
 
